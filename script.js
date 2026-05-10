@@ -1,7 +1,7 @@
 /**
  * Club Connect - Core Logic
  */
-//javacript codes
+//javacript code is here
 
 document.addEventListener("DOMContentLoaded", () => {
     // 1. Dynamic Greeting System
